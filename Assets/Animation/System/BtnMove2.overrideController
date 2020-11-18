@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BtnMove2
+  m_Controller: {fileID: 9100000, guid: c6335aea25596ce4db7e5bbe39a66755, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b78fd5704d6892e4c8854cfec78f0436, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf343f148ec42de41bda552360534bcc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b540afe76fde1dc46ac43774b8b2cb34, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 41b17c1b97462e747806192814cdf00b, type: 2}

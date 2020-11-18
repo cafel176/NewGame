@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/MainScene.unity
+    guid: 8f9a030b8555e1c44971ce53506e1eb0
+  - enabled: 1
+    path: Assets/Scene/Loading.unity
+    guid: 12786772c5cf468459486822a4d9723a
+  - enabled: 0
+    path: "Assets/Test/\u5929\u4F51\u526F\u5C06/testScene.unity"
+    guid: 61df2525f0eeb714e867c1c4941aabdf
+  - enabled: 1
+    path: Assets/Scene/Story/StoryScene2.unity
+    guid: b65d7ab115cfa914ca8e9abf8850736d
+  - enabled: 1
+    path: Assets/Scene/Story/StoryScene3.unity
+    guid: 520e803c0ee2585479ae978640220850
+  - enabled: 1
+    path: Assets/Scene/Story/StoryScene4.unity
+    guid: e3af35423e7c3774f91364a41899f69c
+  - enabled: 1
+    path: Assets/Scene/Story/StoryScene5.unity
+    guid: 79be75cfabf3f53479b7152273e264d5
+  - enabled: 1
+    path: Assets/Scene/Story/StoryScene6.unity
+    guid: e1e9ee822bf7e1e4db3c46e7adc96bdd
+  - enabled: 1
+    path: Assets/Scene/Story/StoryScene7.unity
+    guid: bc0a454a778858b4da5a4a1404a241f5
+  - enabled: 1
+    path: Assets/Scene/Challenge/ChallengeScene8.unity
+    guid: c6ba32b0a5f90bd4eb4c0b7d3c52252c
+  - enabled: 1
+    path: Assets/Scene/Challenge/ChallengeScene9.unity
+    guid: f19071eec80cd0f408ae14174a2038d2
+  - enabled: 1
+    path: Assets/Scene/Challenge/ChallengeScene10.unity
+    guid: 1c021d02b0d77fa4b821ce163f044a1b
+  - enabled: 1
+    path: Assets/Scene/Challenge/ChallengeScene11.unity
+    guid: 9f697641eb9668e46a3f419ae151ba1f
+  - enabled: 1
+    path: Assets/Scene/Challenge/ChallengeScene12.unity
+    guid: 5e92ff21bc724214f9283a0c1b885192

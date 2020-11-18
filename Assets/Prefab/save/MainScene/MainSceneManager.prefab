@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1505284954868750}
+  m_IsPrefabParent: 1
+--- !u!1 &1505284954868750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4101273447827010}
+  - component: {fileID: 114836349639576620}
+  m_Layer: 0
+  m_Name: MainSceneManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4101273447827010
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505284954868750}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114836349639576620
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505284954868750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4068f5993fb52044930484eb3605f9b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startBtn1: {fileID: 0}
+  startBtn2: {fileID: 0}
+  quitBtn: {fileID: 0}
+  newBtn: {fileID: 0}
+  continueBtn: {fileID: 0}
+  backBtn: {fileID: 0}
+  easyMask: {fileID: 0}
+  normalMask: {fileID: 0}
+  hardMask: {fileID: 0}
+  text: {fileID: 0}
+  levels:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  save1: {fileID: 0}
+  time1: {fileID: 0}
+  save2: {fileID: 0}
+  time2: {fileID: 0}
+  save3: {fileID: 0}
+  time3: {fileID: 0}
+  Panel: {fileID: 0}
+  savePanel: {fileID: 0}
+  HintPanel: {fileID: 1716797593398512, guid: 4aa16f7466a532d48834c9dd86512deb, type: 2}
+  ChoosePanel: {fileID: 0}
+  BGM: {fileID: 8300000, guid: e8bca771ddbd96547b3eba56e3fc52c6, type: 3}
+  Btn: {fileID: 8300000, guid: b9a0ea1235e61be418cb013060801b4c, type: 3}
+  Yes: {fileID: 8300000, guid: f8588d260fa8d564c849065a86a45489, type: 3}
+  No: {fileID: 8300000, guid: 9fb5fed783d978040a9c4c175d4ae91c, type: 3}

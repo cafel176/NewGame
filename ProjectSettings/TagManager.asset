@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - NPC
+  - item
+  - box
+  - item1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Actor
+  - Enemy
+  - Item
+  - thread
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3143445963
+    locked: 0
+  - name: floor
+    uniqueID: 474633625
+    locked: 0
+  - name: Item
+    uniqueID: 1536515427
+    locked: 0
+  - name: NPC
+    uniqueID: 1886421227
+    locked: 0
+  - name: Enemy
+    uniqueID: 1457696997
+    locked: 0
+  - name: mask
+    uniqueID: 1233713821
+    locked: 0
+  - name: Player
+    uniqueID: 4221650803
+    locked: 0
+  - name: GUI
+    uniqueID: 2105981577
+    locked: 0
